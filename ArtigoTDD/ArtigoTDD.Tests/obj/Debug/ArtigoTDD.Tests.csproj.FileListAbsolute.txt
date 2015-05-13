@@ -1,0 +1,7 @@
+c:\users\edson alves\ArtigoTDD\ArtigoTDD.Tests\bin\Debug\ArtigoTDD.Tests.dll
+c:\users\edson alves\ArtigoTDD\ArtigoTDD.Tests\bin\Debug\ArtigoTDD.Tests.pdb
+c:\users\edson alves\ArtigoTDD\ArtigoTDD.Tests\bin\Debug\ArtigoTDD.dll
+c:\users\edson alves\ArtigoTDD\ArtigoTDD.Tests\bin\Debug\ArtigoTDD.pdb
+c:\users\edson alves\ArtigoTDD\ArtigoTDD.Tests\obj\Debug\ArtigoTDD.Tests.csprojResolveAssemblyReference.cache
+c:\users\edson alves\ArtigoTDD\ArtigoTDD.Tests\obj\Debug\ArtigoTDD.Tests.dll
+c:\users\edson alves\ArtigoTDD\ArtigoTDD.Tests\obj\Debug\ArtigoTDD.Tests.pdb

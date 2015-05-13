@@ -1,0 +1,6 @@
+c:\users\edson alves\ArtigoTDD\ArtigoTDD\bin\ArtigoTDD.dll.config
+c:\users\edson alves\ArtigoTDD\ArtigoTDD\bin\ArtigoTDD.dll
+c:\users\edson alves\ArtigoTDD\ArtigoTDD\bin\ArtigoTDD.pdb
+c:\users\edson alves\ArtigoTDD\ArtigoTDD\obj\Debug\ArtigoTDD.csprojResolveAssemblyReference.cache
+c:\users\edson alves\ArtigoTDD\ArtigoTDD\obj\Debug\ArtigoTDD.dll
+c:\users\edson alves\ArtigoTDD\ArtigoTDD\obj\Debug\ArtigoTDD.pdb
